@@ -8,7 +8,6 @@
 
 В этом проекте реализована кроссплатформенная мобильная игра «Угадай число», в которой система генерирует случайное число, а у пользователя есть ограниченное количество попыток его угадать.
 
-
 ## Функционал
 
 - Настраиваемый диапазон генерируемых чисел и попыток
@@ -30,15 +29,34 @@
 
 ## Скриншоты
 
-#### Material Design
-
-| ![image](assets/screenshots/Screenshot-1.webp) | ![image](assets/screenshots/Screenshot-2.webp) | ![image](assets/screenshots/Screenshot-3.webp) | ![image](assets/screenshots/Screenshot-4.webp) | ![image](assets/screenshots/Screenshot-5.webp) | ![image](assets/screenshots/Screenshot-6.webp) |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-
-#### Cupertino
-
-| ![image](assets/screenshots/Screenshot-7.webp) | ![image](assets/screenshots/Screenshot-8.webp) | ![image](assets/screenshots/Screenshot-9.webp) | ![image](assets/screenshots/Screenshot-10.webp) | ![image](assets/screenshots/Screenshot-11.webp) | ![image](assets/screenshots/Screenshot-12.webp) |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+<details><summary><b>Material Design</b></summary>
+   <table>
+   <tr>
+      <th><img src="assets/screenshots/Screenshot-1.webp" alt="Главный экран/меню"/></th>
+      <th><img src="assets/screenshots/Screenshot-2.webp" alt="Экран игры"/></th>
+      <th><img src="assets/screenshots/Screenshot-3.webp" alt="Демонстрация валидации поля ввода"/></th>
+   </tr>
+   <tr>
+      <th><img src="assets/screenshots/Screenshot-4.webp" alt="Проигрыш"/></th>
+      <th><img src="assets/screenshots/Screenshot-5.webp" alt="Победа"/></th>
+      <th><img src="assets/screenshots/Screenshot-6.webp" alt="Главный экран после завершенного матча с использованными подсказками"/></th>
+   </tr>
+   </table>
+</details>
+<details><summary><b>Cupertino</b></summary>
+   <table>
+   <tr>
+      <th><img src="assets/screenshots/Screenshot-7.webp" alt="Главный экран/меню"/></th>
+      <th><img src="assets/screenshots/Screenshot-8.webp" alt="Экран игры"/></th>
+      <th><img src="assets/screenshots/Screenshot-9.webp" alt="Демонстрация валидации поля ввода"/></th>
+   </tr>
+   <tr>
+      <th><img src="assets/screenshots/Screenshot-10.webp" alt="Проигрыш"/></th>
+      <th><img src="assets/screenshots/Screenshot-11.webp" alt="Победа"/></th>
+      <th><img src="assets/screenshots/Screenshot-12.webp" alt="Главный экран после завершенного матча с использованными подсказками"/></th>
+   </tr>
+   </table>
+</details>
 
 ---
 
@@ -111,9 +129,7 @@ flutter doctor
 
 Эта команда выведет список отсутствующих зависимостей или конфигураций.
 
-
 ---
-
 
 ## Загрузка APK (необязательно, Android)
 
