@@ -32,13 +32,13 @@
 
 #### Material Design
 
-| ![image](assets/screenshots/Screenshot-1.jpg) | ![image](assets/screenshots/Screenshot-2.jpg) | ![image](assets/screenshots/Screenshot-3.jpg) | ![image](assets/screenshots/Screenshot-4.jpg) | ![image](assets/screenshots/Screenshot-5.jpg) | ![image](assets/screenshots/Screenshot-6.jpg) |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| ![image](assets/screenshots/Screenshot-1.webp) | ![image](assets/screenshots/Screenshot-2.webp) | ![image](assets/screenshots/Screenshot-3.webp) | ![image](assets/screenshots/Screenshot-4.webp) | ![image](assets/screenshots/Screenshot-5.webp) | ![image](assets/screenshots/Screenshot-6.webp) |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 
 #### Cupertino
 
-| ![image](assets/screenshots/Screenshot-7.jpg) | ![image](assets/screenshots/Screenshot-8.jpg) | ![image](assets/screenshots/Screenshot-9.jpg) | ![image](assets/screenshots/Screenshot-10.jpg) | ![image](assets/screenshots/Screenshot-11.jpg) | ![image](assets/screenshots/Screenshot-12.jpg) |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| ![image](assets/screenshots/Screenshot-7.webp) | ![image](assets/screenshots/Screenshot-8.webp) | ![image](assets/screenshots/Screenshot-9.webp) | ![image](assets/screenshots/Screenshot-10.webp) | ![image](assets/screenshots/Screenshot-11.webp) | ![image](assets/screenshots/Screenshot-12.webp) |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
 
 ---
 
